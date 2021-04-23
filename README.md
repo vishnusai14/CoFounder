@@ -1,6 +1,6 @@
 # CoFounder
 
-#Command Used To run Program
+# Command Used To run Program
 
 Step 1 :
   Download The Source Code and Un Zip It
@@ -9,7 +9,8 @@ Step 2 :
   Open Command Prompt(Any Other Terminal is also Preferred) and navigate to client folder (cd client)
   
 Step 3 :
-  Type #npm install (Make Sure You Have Download NPM and Node.js) and Once install is done type #npm start to Start The FrontEnd App on 3000
+  Type # npm install (Make Sure You Have Download NPM and Node.js) 
+  and Once install is done type # npm start to Start The FrontEnd App on 3000
   
 Step 4 :
   Come back To Previous Folder(cd ..) and run #npm install
